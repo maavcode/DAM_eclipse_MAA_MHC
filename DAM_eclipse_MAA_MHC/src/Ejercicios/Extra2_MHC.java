@@ -32,5 +32,4 @@ public class Extra2_MHC {
 			return salario+salarioExtra;
 		}
 	}
-
 }
