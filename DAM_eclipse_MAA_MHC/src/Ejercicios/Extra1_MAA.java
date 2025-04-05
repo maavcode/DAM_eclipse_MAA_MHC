@@ -44,8 +44,7 @@ public class Extra1_MAA {
 		System.out.println("\n--------------------\n");
 		System.out.println("Precio a pagar sin descuento (" + precioTotal + ")");
 		System.out.println("Precio a pagar con descuento (" + (precioTotal - precioTotalDescuento) + ")");
-		System.out.println("Cucurella");
-		System.out.println("Hola mundo");
+		System.out.println("Cucurella v2");
 	}
 
 	public static String validarDescuento(Double precio) {
